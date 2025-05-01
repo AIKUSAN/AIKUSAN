@@ -13,18 +13,16 @@
   </p>
 </div>
 
-<br clear="both">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AIKUSAN/AIKUSAN/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AIKUSAN/AIKUSAN/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AIKUSAN/AIKUSAN/output/github-snake.svg" />
 </picture>
 
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on [skript-scripts](Private)
+- 🔭 I'm currently working on [skript-scripts]
 - 👯 I'm looking to collaborate on **Minecraft Server Plugins**
 - 💬 Ask me about **Minecraft Plugin Development, Skript, and Server Optimization**
 - 📫 How to reach me: **ikelandofpromise@gmail.com**
