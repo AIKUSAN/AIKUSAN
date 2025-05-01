@@ -1,19 +1,7 @@
 <div align="center">
-  <h1>Hi 👋, I'm AIKUSAN</h1>
+  <h1>Hi 👋🏼, I'm AIKUSAN</h1>
   <h3>I'm a passionate developer with a love for creating innovative solutions and exploring new technologies.</h3>
 </div>
-
-  <br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AIKUSAN/AIKUSAN/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AIKUSAN/AIKUSAN/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AIKUSAN/AIKUSAN/output/pacman-contribution-graph.svg">
-</picture>
-
-
-
-
 
 
 ### 🚀 About Me
@@ -119,4 +107,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aikusan&show_icons=true&locale=en&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   <br><br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aikusan&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+  <br><br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AIKUSAN/AIKUSAN/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AIKUSAN/AIKUSAN/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AIKUSAN/AIKUSAN/output/pacman-contribution-graph.svg">
+</picture>
