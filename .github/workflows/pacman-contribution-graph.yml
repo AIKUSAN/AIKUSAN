@@ -31,26 +31,31 @@ jobs:
       uses: jasineri/github-contributions-canvas@v1.0.0
       with:
         github_user_name: ${{ github.repository_owner }}
-        output_file_path: 'pacman-contribution-graph.svg'
+        output_file_path: './pacman-contribution-graph.svg'
         theme: 'pacman'
         
     - name: Generate Dark Mode Version
       uses: jasineri/github-contributions-canvas@v1.0.0
       with:
         github_user_name: ${{ github.repository_owner }}
-        output_file_path: 'pacman-contribution-graph-dark.svg'
+        output_file_path: './pacman-contribution-graph-dark.svg'
         theme: 'pacman-dark'
         
-    - name: Push Changes
+    - name: Push to output branch
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
         
-        mkdir -p output
-        mv pacman-contribution-graph.svg output/
-        mv pacman-contribution-graph-dark.svg output/
+        # Create a new orphan branch (no history)
+        git checkout --orphan output
+        git rm -rf .
         
-        git add output/
-        git commit -m "Update Pacman contribution graph" || echo "No changes to commit"
-        git push
-```
+        # Add generated SVG files
+        mv pacman-contribution-graph.svg ./
+        mv pacman-contribution-graph-dark.svg ./
+        
+        git add pacman-contribution-graph.svg
+        git add pacman-contribution-graph-dark.svg
+        
+        git commit -m "Update Pacman contribution graph"
+        git push -f origin output
