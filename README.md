@@ -1,17 +1,9 @@
 <div align="center">
   <h1>Hi 👋, I'm AIKUSAN</h1>
   <h3>I'm a passionate developer with a love for creating innovative solutions and exploring new technologies.</h3>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=aikusan&label=Profile%20views&color=0e75b6&style=flat" alt="aikusan" />
-  </p>
-  
-  <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=aikusan&theme=onedark&row=1&column=6" alt="aikusan trophies" />
-    </a>
-  </p>
 </div>
+
+  <br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AIKUSAN/AIKUSAN/output/pacman-contribution-graph-dark.svg">
@@ -24,13 +16,15 @@
 
 
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 🔭 I'm currently working on [skript-scripts]
-- 👯 I'm looking to collaborate on **Minecraft Server Plugins**
-- 💬 Ask me about **Minecraft Plugin Development, Skript, and Server Optimization**
-- 📫 How to reach me: **ikelandofpromise@gmail.com**
-- ⚡ Fun fact: **Creating virtual worlds, one line of code at a time.**
+- 🔭 Currently building **Skript scripts** and developing unique Minecraft gameplay experiences  
+- 🧠 Focused on server-side logic, plugin development, and performance optimization  
+- 👥 Open to collaboration on **Minecraft Server Plugins** and community-driven dev projects  
+- 💬 Ask me about **Skript**, **Minecraft server optimization**, or **Discord bot integration**  
+- 📫 Reach me at my [email](mailto:ikelandofpromise@gmail.com)  
+- ⚡ **Fun fact:** I build virtual adventures where every command becomes a creation.
+
 
 ## 🔗 Connect With Me
 
@@ -40,7 +34,7 @@
   </a>
 </p>
 
-## 💻 Technical Skills
+## 💻 Tech Stack
 
 ### Programming Languages
 <p>
@@ -51,7 +45,7 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
   <a href="https://coffeescript.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/></a>
 </p>
@@ -121,14 +115,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aikusan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   
+  <img src="https://github-readme-stats.vercel.app/api?username=aikusan&show_icons=true&locale=en&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=aikusan&show_icons=true&locale=en&theme=radical&include_all_commits=true" alt="GitHub Stats" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aikusan&theme=radical" alt="GitHub Streak" />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aikusan&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 
