@@ -38,14 +38,14 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/aikusan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://aikusan.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:lorenztazan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/AIKUSAN" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://discord.com/users/aikusan" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
@@ -107,9 +107,9 @@
 
 ### Networking & Security
 <p>
-  <a href="https://mikrotik.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/MikroTik_Logo.svg/240px-MikroTik_Logo.svg.png" alt="mikrotik" width="40" height="40"/></a>
-  <a href="https://www.pfsense.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pfsense/pfsense-icon.svg" alt="pfsense" width="40" height="40"/></a>
-  <a href="https://www.ui.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ui/ui-icon.svg" alt="ubiquiti" width="40" height="40"/></a>
+  <a href="https://mikrotik.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mikrotik_logo_icon_167896.png" alt="mikrotik" width="40" height="40"/></a>
+  <a href="https://www.pfsense.org/" target="_blank" rel="noreferrer"><img src="https://styles.redditmedia.com/t5_2qh2d/styles/communityIcon_z04q3eqwrtg41.png" alt="pfsense" width="40" height="40"/></a>
+  <a href="https://www.ui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-ubiquiti-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-5-pack-logos-icons-2945114.png" alt="ubiquiti" width="40" height="40"/></a>
 </p>
 
 ### Monitoring & Visualization
