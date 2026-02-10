@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Lorenz Tazan</h1>
-  <h3>IT Infrastructure Specialist | Systems Engineer | Network Administrator</h3>
-  <p>Building enterprise-grade infrastructure with 99.9% uptime | Network design | DevOps automation</p>
+  <h3>Platform Engineer | Network Architect | AI/DevOps Specialist</h3>
+  <p>Building production infrastructure with AI automation | ISP & DoD network engineering | Kubernetes & GitOps</p>
 </div>
 
 ---
