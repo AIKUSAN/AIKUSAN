@@ -138,7 +138,9 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=AIKUSAN&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
   <br><br>
 
-  <img src="https://raw.githubusercontent.com/AIKUSAN/AIKUSAN/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
+  <img src="pacman-contributions.svg" alt="Pacman Contribution Graph (Custom)" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/AIKUSAN/AIKUSAN/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph (Auto)" />
 
 </div>
 
