@@ -162,5 +162,4 @@
 
 <div align="center">
   <p>💼 Open to opportunities in Platform Engineering, Site Reliability Engineering (SRE), DevOps, and Cloud Infrastructure roles</p>
-  <p><i>U.S. Permanent Resident | Preference for hybrid positions in DC, Maryland, Virginia (DMV area)</i></p>
 </div>
