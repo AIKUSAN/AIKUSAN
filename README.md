@@ -107,9 +107,11 @@
 
 ### Networking & Security
 <p>
-  <a href="https://mikrotik.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mikrotik_logo_icon_167896.png" alt="mikrotik" width="40" height="40"/></a>
-  <a href="https://www.pfsense.org/" target="_blank" rel="noreferrer"><img src="https://styles.redditmedia.com/t5_2qh2d/styles/communityIcon_z04q3eqwrtg41.png" alt="pfsense" width="40" height="40"/></a>
-  <a href="https://www.ui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-ubiquiti-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-5-pack-logos-icons-2945114.png" alt="ubiquiti" width="40" height="40"/></a>
+  <a href="https://mikrotik.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mikrotik/293239" alt="mikrotik" width="40" height="40"/></a>
+  <a href="https://www.pfsense.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pfsense/212121" alt="pfsense" width="40" height="40"/></a>
+  <a href="https://www.ui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/ubiquiti/0559C9" alt="ubiquiti" width="40" height="40"/></a>
+  <a href="https://openvpn.net/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openvpn/EA7E20" alt="openvpn" width="40" height="40"/></a>
+  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="cisco" width="40" height="40"/></a>
 </p>
 
 ### Monitoring & Visualization
@@ -125,13 +127,13 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=AIKUSAN&show_icons=true&locale=en&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AIKUSAN&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
   <br><br>
   
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AIKUSAN&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=AIKUSAN&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AIKUSAN&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AIKUSAN&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -139,13 +141,13 @@
 
 ## 🏆 Professional Highlights
 
-- 🌐 **ISP Infrastructure:** Deployed 10Gbps backbone serving 700+ subscribers with 99.9% uptime
-- 🔒 **DoD Compliance:** Government contractor network with 0 audit findings
+- 🌐 **ISP Infrastructure:** Deployed 10Gbps backbone serving 700+ subscribers with 99.9% uptime (MikroTik/pfSense)
+- 🔒 **DoD Compliance:** Government contractor network with 0 audit findings (Ubiquiti/NIST 800-171)
 - 🐳 **DevOps:** Reduced deployment time from 30min to <2min with Docker/CI/CD automation
-- ⚡ **Performance:** Optimized JVM latency by 56% (80ms → 35ms)
-- 💰 **Cost Optimization:** Achieved 65% infrastructure cost reduction through migration
-- 👥 **Team Leadership:** Led 7-person distributed technical team
-- 📊 **Scale:** 24-server ecosystem managing 300+ concurrent users
+- ⚡ **Performance:** Optimized database latency by 56% (80ms → 35ms) with MariaDB clustering
+- 💰 **Cost Optimization:** Achieved 65% infrastructure cost reduction through cloud migration
+- 👥 **Team Leadership:** Led 7-person distributed technical team across development and operations
+- 📊 **Scale:** 24-server ecosystem managing 300+ concurrent users with 99.9% uptime
 
 ---
 
