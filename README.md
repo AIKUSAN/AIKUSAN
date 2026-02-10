@@ -1,18 +1,20 @@
 <div align="center">
   <h1>Hi 👋, I'm Lorenz Tazan</h1>
-  <h3>Platform Engineer | Network Architect | AI/DevOps Specialist</h3>
-  <p>Building production infrastructure with AI automation | ISP & DoD network engineering | Kubernetes & GitOps</p>
+  <h3>Systems Engineer | Infrastructure Automation Specialist</h3>
+  <p>7 years building enterprise infrastructure with AI-enhanced DevOps | 99.9% uptime | ISP & DoD network engineering</p>
 </div>
 
 ---
 
 ### 🚀 About Me
 
-- 🏢 **Systems Engineer** with **7+ years IT experience** managing enterprise infrastructure
-- 🌐 Specialized in **ISP networks**, **DoD contractor compliance**, and **distributed systems**
-- 🔧 Expertise: Linux/Docker, MikroTik/pfSense/Ubiquiti, MariaDB/MySQL/MongoDB/Redis
-- 📊 Proven track record: **99.9% uptime**, **24-server ecosystems**, **700+ users supported**
-- 💼 Currently managing multi-server infrastructure for Land of Promise community (300+ concurrent users)
+- 🏢 **Systems Engineer** with **7 years of hands-on IT experience** specializing in **infrastructure automation and AI-enhanced DevOps workflows**
+- 🤖 Expert in **multi-LLM orchestration** (Gemini, Claude, GPT-4) for intelligent automation, reducing configuration errors **85%** and manual intervention **70%**
+- 🌐 Production deployments: **ISP-grade networks** (700+ subscribers, 10Gbps backbone), **DoD compliance** (0 audit findings), **24-server distributed systems**
+- 🔧 Tech Stack: Docker, Kubernetes, Linux, MikroTik/pfSense/Ubiquiti, MariaDB/MySQL/MongoDB/Redis, Python, Java, Bash
+- 📊 Proven results: **99.9% uptime**, **96% database performance improvements**, **93% deployment time reduction**, **65% cost savings**
+- 💼 Currently managing 24-server infrastructure serving **300+ concurrent users** with 99.9% uptime
+- 🇺🇸 **U.S. Permanent Resident** | Authorized to work for any employer without sponsorship
 - 📫 Reach me: **lorenztazan@gmail.com** | [Portfolio](https://lorenztazan.com)
 
 ---
@@ -156,6 +158,6 @@
 </div>
 
 <div align="center">
-  <p>💼 Open to opportunities in Systems Engineering, Network Administration, and DevOps</p>
-  <p><i>Building reliable infrastructure, one server at a time.</i></p>
+  <p>💼 Open to opportunities in Platform Engineering, Site Reliability Engineering (SRE), DevOps, and Cloud Infrastructure roles</p>
+  <p><i>U.S. Permanent Resident | Preference for hybrid positions in DC, Maryland, Virginia (DMV area)</i></p>
 </div>
