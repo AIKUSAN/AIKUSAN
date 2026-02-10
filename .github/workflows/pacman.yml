@@ -22,18 +22,23 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          github_user_name: AIKUSAN
-          theme: github-dark
+          python-version: '3.x'
 
-      - name: move generated file to dist directory
+      - name: Generate Custom Pac-Man Graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: AIKUSAN
+        run: python generate_pacman.py
+
+      - name: Move generated file to dist directory
         run: |
           mkdir -p dist
-          find . -maxdepth 1 -name "pacman-contribution-graph*.svg" -exec mv {} dist/pacman-contribution-graph.svg \;
+          mv pacman-contribution-graph.svg dist/
 
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
