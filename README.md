@@ -159,8 +159,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AIKUSAN&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
-
-<div align="center">
-  <p>💼 Open to opportunities in Platform Engineering, Site Reliability Engineering (SRE), DevOps, and Cloud Infrastructure roles</p>
-  <p><i>U.S. Permanent Resident | Preference for hybrid positions in DC, Maryland, Virginia (DMV area)</i></p>
-</div>
