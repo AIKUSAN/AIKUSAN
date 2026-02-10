@@ -31,7 +31,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: AIKUSAN
-        run: python .github/workflows/generate_pacman.py
+        run: python generate_pacman.py
 
       - name: Move generated file to dist directory
         run: |

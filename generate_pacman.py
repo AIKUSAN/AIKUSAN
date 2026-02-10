@@ -10,7 +10,7 @@ TOKEN = os.environ.get("GITHUB_TOKEN")
 USERNAME = os.environ.get("GITHUB_USERNAME", "AIKUSAN")
 
 # Dark Theme Colors (Transparency Optimized)
-BACKGROUND_COLOR = "#0d1117"  # GitHub dark theme background
+# Background is transparent (none)
 DOT_COLORS = {
     0: "#21262d", # Empty cell
     1: "#0e4429", # Level 1
@@ -87,7 +87,6 @@ def generate_svg(weeks):
     
     svg = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">',
-        f'<rect width="100%" height="100%" fill="{BACKGROUND_COLOR}"/>',
         f'<style>.pacman {{ fill: {PACMAN_COLOR}; }}</style>'
     ]
     
