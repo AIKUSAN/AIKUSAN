@@ -125,13 +125,13 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=aikusan&show_icons=true&locale=en&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AIKUSAN&show_icons=true&locale=en&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br><br>
   
-  <img src="https://streak-stats.demolab.com?user=aikusan&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AIKUSAN&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aikusan&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AIKUSAN&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -139,7 +139,7 @@
 
 ## 🏆 Professional Highlights
 
-- 🌐 **ISP Infrastructure:** Deployed 10Gbps backbone serving 700+ subscribers with 99.8% uptime
+- 🌐 **ISP Infrastructure:** Deployed 10Gbps backbone serving 700+ subscribers with 99.9% uptime
 - 🔒 **DoD Compliance:** Government contractor network with 0 audit findings
 - 🐳 **DevOps:** Reduced deployment time from 30min to <2min with Docker/CI/CD automation
 - ⚡ **Performance:** Optimized JVM latency by 56% (80ms → 35ms)
@@ -150,7 +150,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aikusan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AIKUSAN&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 <div align="center">
