@@ -18,27 +18,12 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # Checkout the repository to make sure we have access to the workspace
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          python-version: '3.x'
+          github_user_name: ${{ github.repository_owner }}
 
-      - name: Generate Custom Pac-Man Graph
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: AIKUSAN
-        run: python generate_pacman.py
-
-      - name: Move generated file to dist directory
-        run: |
-          mkdir -p dist
-          mv pacman-contribution-graph.svg dist/
-
-      - name: Push to output branch
+      - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
