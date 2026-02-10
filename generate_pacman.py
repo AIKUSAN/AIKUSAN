@@ -14,9 +14,9 @@ USERNAME = os.environ.get("GITHUB_USERNAME", "AIKUSAN")
 DOT_COLORS = {
     0: "#21262d", # Empty cell
     1: "#0e4429", # Level 1
-    2: "#006d32", 
-    3: "#26a641", 
-    4: "#39d353"  
+    2: "#006d32", # Level 2
+    3: "#26a641", # Level 3
+    4: "#39d353"  # Level 4
 }
 PACMAN_COLOR = "#e8c13b"
 
@@ -97,7 +97,7 @@ def generate_svg(weeks):
         days = week['contributionDays']
         is_even_col = (w_i % 2 == 0)
         
-        for d_i, day in enumerate(days): # Always 0 to 6
+        for d_i, day in enumerate(days):
             cx = 10 + w_i * cell_size + cell_size/2
             cy = 10 + d_i * cell_size + cell_size/2
             
