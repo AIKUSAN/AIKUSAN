@@ -15,7 +15,7 @@
 - 📊 Proven results: **99.9% uptime**, **96% database performance improvements**, **93% deployment time reduction**, **65% cost savings**
 - 💼 Currently managing 24-server infrastructure serving **300+ concurrent users** with 99.9% uptime
 - 🇺🇸 **U.S. Permanent Resident** | Authorized to work for any employer without sponsorship
-- 📫 Reach me: **lorenztazan@gmail.com** | [Portfolio](https://lorenztazan.com)
+- 📫 Reach me: **lorenztazan@gmail.com** | **240-256-2410** | [Portfolio](https://lorenztazan.com)
 
 ---
 
@@ -138,7 +138,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=AIKUSAN&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
   <br><br>
 
-  <img src="https://raw.githubusercontent.com/AIKUSAN/AIKUSAN/output/pacman-contribution-graph.svg?raw=true" alt="Pacman Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/AIKUSAN/AIKUSAN/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
 
 </div>
 
@@ -162,3 +162,5 @@
 
 <div align="center">
   <p>💼 Open to opportunities in Platform Engineering, Site Reliability Engineering (SRE), DevOps, and Cloud Infrastructure roles</p>
+  <p><i>U.S. Permanent Resident | Preference for hybrid positions in DC, Maryland, Virginia (DMV area)</i></p>
+</div>
