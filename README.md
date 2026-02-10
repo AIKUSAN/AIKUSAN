@@ -13,7 +13,7 @@
 - 🔧 Expertise: Linux/Docker, MikroTik/pfSense/Ubiquiti, MariaDB/MySQL/MongoDB/Redis
 - 📊 Proven track record: **99.9% uptime**, **24-server ecosystems**, **700+ users supported**
 - 💼 Currently managing multi-server infrastructure for Land of Promise community (300+ concurrent users)
-- 📫 Reach me: **lorenztazan@gmail.com** | [Portfolio](https://aikusan.github.io/portfolio)
+- 📫 Reach me: **lorenztazan@gmail.com** | [Portfolio](https://lorenztazan.com)
 
 ---
 
@@ -38,7 +38,7 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://aikusan.github.io/portfolio" target="_blank">
+  <a href="https://lorenztazan.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:lorenztazan@gmail.com">
