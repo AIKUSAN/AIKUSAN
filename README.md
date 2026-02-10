@@ -19,19 +19,19 @@
 
 ## 🌟 Featured Projects
 
-### 🌐 Network Infrastructure Portfolio
-**Professional network topology diagrams and documentation from real-world deployments**
-- [Network Infrastructure Diagrams](https://github.com/AIKUSAN/network-infrastructure-diagrams) - Interactive viewer with glassmorphism UI
-- [Regional Fiber ISP](https://github.com/AIKUSAN/regional-fiber-isp) - ISP core network (700+ subscribers, 10Gbps backbone)
-- [Government Contractor Network](https://github.com/AIKUSAN/government-contractor-network) - DoD compliance network (0 audit findings)
+### 🤖 AI & Intelligent Automation
+- [AI Agentic Network Automation](https://github.com/AIKUSAN/ai-agentic-network-automation) - Multi-LLM orchestration with GPT-4, Claude, Gemini for autonomous network operations
+- [NetOps Automation Framework](https://github.com/AIKUSAN/netops-automation-framework) - Python-based GitOps framework with Ansible, Terraform, and CI/CD integration
 
-### 🐳 DevOps & Infrastructure
-- [Docker Kubernetes Automation](https://github.com/AIKUSAN/docker-kubernetes-automation) - Production deployment toolkit
-- [MariaDB Optimization Guide](https://github.com/AIKUSAN/mariadb-optimization-guide) - Performance tuning & clustering
-- [Bash DevOps Toolkit](https://github.com/AIKUSAN/bash-devops-toolkit) - Automated deployment scripts
+### 🌐 Network Infrastructure
+- [Network Infrastructure Diagrams](https://github.com/AIKUSAN/network-infrastructure-diagrams) - Interactive viewer with production ISP and DoD network topologies
+- [Regional Fiber ISP - Core Network](https://github.com/AIKUSAN/regional-fiber-isp) - 10Gbps backbone serving 700+ subscribers (MikroTik/BGP/CGNAT)
+- [DoD Contractor - Secure Network](https://github.com/AIKUSAN/government-contractor-network) - NIST 800-171 compliant infrastructure (0 audit findings)
 
-### ☕ Application Development
-- [Java Spring Microservices](https://github.com/AIKUSAN/java-spring-microservices-demo) - Event-driven architecture demo
+### 🐳 DevOps & Cloud Infrastructure
+- [Container Orchestration & Infrastructure](https://github.com/aikusan/docker-kubernetes-automation) - Production Kubernetes deployments with GitOps and monitoring
+- [Bash DevOps Toolkit](https://github.com/aikusan/bash-devops-toolkit) - Automated deployment scripts for multi-environment infrastructure
+- [MariaDB Performance Optimization](https://github.com/AIKUSAN/mariadb-optimization-guide) - Clustering, replication, and 56% latency reduction techniques
 
 ---
 
