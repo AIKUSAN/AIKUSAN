@@ -13,7 +13,7 @@
 - 🔧 **Tech Stack:** Docker, Kubernetes, Linux, MikroTik/pfSense/Ubiquiti, MariaDB/MongoDB, Python, Java, Bash, Terraform, Ansible
 - 💼 Currently engineering autonomous "Self-Healing" infrastructure models and managing high-availability server ecosystems
 - 🇺🇸 **U.S. Permanent Resident** | Authorized to work for any employer without sponsorship
-- 📫 Reach me: **<lorenztazan@gmail.com>** | **240-256-2410** | [Portfolio](https://lorenztazan.com)
+- 📫 Reach me: **<lorenztazan@gmail.com>** | [Portfolio](https://lorenztazan.com)
 
 ---
 
