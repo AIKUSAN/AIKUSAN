@@ -8,33 +8,30 @@
 
 ### 🚀 About Me
 
-- 🏢 **Systems Engineer & Full-Stack Developer** with **7 years of hands-on IT experience** specializing in infrastructure automation and modern web development.
-- 💻 Builder of robust, scalable applications using **Next.js, React, Tailwind CSS, and Supabase** for performant user experiences.
-- 🤖 Expert in **multi-LLM orchestration** (Gemini, Claude, GPT-4) for intelligent automation, reducing configuration errors by **85%**.
-- 🌐 Production deployments: **ISP-grade networks** (700+ subscribers, 10Gbps backbone), **DoD compliance** (0 audit findings), **24-server distributed systems**.
-- 🔧 Infrastructure Stack: Docker, Kubernetes, Linux, MikroTik/pfSense, MariaDB/MongoDB/Redis, Python, Bash.
-- 📊 Proven results: **99.9% uptime**, **96% database performance improvements**, **93% deployment time reduction**.
-- 💼 Currently managing a 24-server infrastructure serving **300+ concurrent users** while developing modern web applications.
+- 🏢 **Systems Engineer** with **7 years of hands-on IT experience** specializing in **infrastructure automation and AI-enhanced DevOps workflows**
+- 🤖 Expert in **multi-LLM orchestration** (Gemini, Claude, GPT) for intelligent infrastructure automation and zero-touch network operations
+- 🔧 **Tech Stack:** Docker, Kubernetes, Linux, MikroTik/pfSense/Ubiquiti, MariaDB/MongoDB, Python, Java, Bash, Terraform, Ansible
+- 💼 Currently engineering autonomous "Self-Healing" infrastructure models and managing high-availability server ecosystems
 - 🇺🇸 **U.S. Permanent Resident** | Authorized to work for any employer without sponsorship
-- 📫 Reach me: **lorenztazan@gmail.com** | **240-256-2410** | [Portfolio](https://lorenztazan.com)
+- 📫 Reach me: **<lorenztazan@gmail.com>** | **240-256-2410** | [Portfolio](https://lorenztazan.com)
 
 ---
 
 ## 🌟 Featured Projects
 
-### 💻 Full-Stack Web Development
-- [IKE-WebPortfolio](https://github.com/AIKUSAN/IKE-WebPortfolio) - Modern, responsive personal portfolio built with **Next.js, Supabase, Tailwind CSS, and React**. Features dynamic project fetching, automated contact forms with Make.com webhooks, and an integrated blog.
-
 ### 🤖 AI & Intelligent Automation
+
 - [AI Agentic Network Automation](https://github.com/AIKUSAN/ai-agentic-network-automation) - Multi-LLM orchestration with GPT-4, Claude, Gemini for autonomous network operations
 - [NetOps Automation Framework](https://github.com/AIKUSAN/netops-automation-framework) - Python-based GitOps framework with Ansible, Terraform, and CI/CD integration
 
 ### 🌐 Network Infrastructure
+
 - [Network Infrastructure Diagrams](https://github.com/AIKUSAN/network-infrastructure-diagrams) - Interactive viewer with production ISP and DoD network topologies
 - [Regional Fiber ISP - Core Network](https://github.com/AIKUSAN/regional-fiber-isp) - 10Gbps backbone serving 700+ subscribers (MikroTik/BGP/CGNAT)
 - [DoD Contractor - Secure Network](https://github.com/AIKUSAN/government-contractor-network) - NIST 800-171 compliant infrastructure (0 audit findings)
 
 ### 🐳 DevOps & Cloud Infrastructure
+
 - [Container Orchestration & Infrastructure](https://github.com/aikusan/docker-kubernetes-automation) - Production Kubernetes deployments with GitOps and monitoring
 - [Bash DevOps Toolkit](https://github.com/aikusan/bash-devops-toolkit) - Automated deployment scripts for multi-environment infrastructure
 - [MariaDB Performance Optimization](https://github.com/AIKUSAN/mariadb-optimization-guide) - Clustering, replication, and 56% latency reduction techniques
@@ -63,6 +60,7 @@
 ## 💻 Tech Stack
 
 ### Programming Languages
+
 <p>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -75,27 +73,44 @@
 </p>
 
 ### Frameworks & Libraries
+
 <p>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/></a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
+</p>
+
+### AI & Agentic Systems
+
+<p>
+  <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openai/412991" alt="chatgpt" width="40" height="40"/></a>
+  <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/anthropic/D97757" alt="claude" width="40" height="40"/></a>
+  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="gemini" width="40" height="40"/></a>
+  <a href="https://langchain.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/></a>
+  <a href="https://n8n.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="40" height="40"/></a>
 </p>
 
 ### Infrastructure & DevOps
+
 <p>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/></a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github-actions" width="40" height="40"/></a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/></a>
 </p>
 
 ### Cloud Platforms
+
 <p>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
@@ -103,6 +118,7 @@
 </p>
 
 ### Databases
+
 <p>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
@@ -113,15 +129,18 @@
 </p>
 
 ### Networking & Security
+
 <p>
   <a href="https://mikrotik.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mikrotik/293239" alt="mikrotik" width="40" height="40"/></a>
   <a href="https://www.pfsense.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pfsense/212121" alt="pfsense" width="40" height="40"/></a>
   <a href="https://www.ui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/ubiquiti/0559C9" alt="ubiquiti" width="40" height="40"/></a>
+  <a href="https://www.f5.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/f5/E3000F" alt="f5" width="40" height="40"/></a>
   <a href="https://openvpn.net/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openvpn/EA7E20" alt="openvpn" width="40" height="40"/></a>
   <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="cisco" width="40" height="40"/></a>
 </p>
 
 ### Monitoring & Visualization
+
 <p>
   <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/></a>
