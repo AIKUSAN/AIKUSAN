@@ -87,7 +87,7 @@
 ### AI & Agentic Systems
 
 <p>
-  <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openai/412991" alt="chatgpt" width="40" height="40"/></a>
+  <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/></a>
   <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/anthropic/D97757" alt="claude" width="40" height="40"/></a>
   <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="gemini" width="40" height="40"/></a>
   <a href="https://langchain.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/></a>
