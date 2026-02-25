@@ -8,18 +8,22 @@
 
 ### 🚀 About Me
 
-- 🏢 **Systems Engineer** with **7 years of hands-on IT experience** specializing in **infrastructure automation and AI-enhanced DevOps workflows**
-- 🤖 Expert in **multi-LLM orchestration** (Gemini, Claude, GPT-4) for intelligent automation, reducing configuration errors **85%** and manual intervention **70%**
-- 🌐 Production deployments: **ISP-grade networks** (700+ subscribers, 10Gbps backbone), **DoD compliance** (0 audit findings), **24-server distributed systems**
-- 🔧 Tech Stack: Docker, Kubernetes, Linux, MikroTik/pfSense/Ubiquiti, MariaDB/MySQL/MongoDB/Redis, Python, Java, Bash
-- 📊 Proven results: **99.9% uptime**, **96% database performance improvements**, **93% deployment time reduction**, **65% cost savings**
-- 💼 Currently managing 24-server infrastructure serving **300+ concurrent users** with 99.9% uptime
+- 🏢 **Systems Engineer & Full-Stack Developer** with **7 years of hands-on IT experience** specializing in infrastructure automation and modern web development.
+- 💻 Builder of robust, scalable applications using **Next.js, React, Tailwind CSS, and Supabase** for performant user experiences.
+- 🤖 Expert in **multi-LLM orchestration** (Gemini, Claude, GPT-4) for intelligent automation, reducing configuration errors by **85%**.
+- 🌐 Production deployments: **ISP-grade networks** (700+ subscribers, 10Gbps backbone), **DoD compliance** (0 audit findings), **24-server distributed systems**.
+- 🔧 Infrastructure Stack: Docker, Kubernetes, Linux, MikroTik/pfSense, MariaDB/MongoDB/Redis, Python, Bash.
+- 📊 Proven results: **99.9% uptime**, **96% database performance improvements**, **93% deployment time reduction**.
+- 💼 Currently managing a 24-server infrastructure serving **300+ concurrent users** while developing modern web applications.
 - 🇺🇸 **U.S. Permanent Resident** | Authorized to work for any employer without sponsorship
 - 📫 Reach me: **lorenztazan@gmail.com** | **240-256-2410** | [Portfolio](https://lorenztazan.com)
 
 ---
 
 ## 🌟 Featured Projects
+
+### 💻 Full-Stack Web Development
+- [IKE-WebPortfolio](https://github.com/AIKUSAN/IKE-WebPortfolio) - Modern, responsive personal portfolio built with **Next.js, Supabase, Tailwind CSS, and React**. Features dynamic project fetching, automated contact forms with Make.com webhooks, and an integrated blog.
 
 ### 🤖 AI & Intelligent Automation
 - [AI Agentic Network Automation](https://github.com/AIKUSAN/ai-agentic-network-automation) - Multi-LLM orchestration with GPT-4, Claude, Gemini for autonomous network operations
@@ -72,11 +76,12 @@
 
 ### Frameworks & Libraries
 <p>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
 </p>
 
 ### Infrastructure & DevOps
