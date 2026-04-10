@@ -1,22 +1,60 @@
-<div align="center">
+<div align="left">
   <h1>Hi 👋, I'm Lorenz Tazan</h1>
-  <h3>Systems Engineer | Infrastructure Automation Specialist</h3>
-  <p>7 years building enterprise infrastructure with AI-enhanced DevOps | 99.9% uptime | ISP & DoD network engineering</p>
+  <h3>Infrastructure Professional | Network Operations | Systems Engineering</h3>
+  <p>Building reliable infrastructure and solving complex technical problems across network operations, systems administration, and automation. 7 years of hands-on experience delivering high-availability systems for enterprise, ISP, and DoD contractor environments.</p>
 </div>
 
 ---
 
-### 🚀 About Me
+## 🎯 What I Do
 
-- 🏢 **Systems Engineer** with **7 years of hands-on IT experience** specializing in **infrastructure automation and AI-enhanced DevOps workflows**
-- 🤖 Expert in **multi-LLM orchestration** (Gemini, Claude, GPT) for intelligent infrastructure automation and zero-touch network operations
-- 🔧 **Tech Stack:** Docker, Kubernetes, Linux, MikroTik/pfSense/Ubiquiti, MariaDB/MongoDB, Python, Java, Bash, Terraform, Ansible
-- 💼 Currently engineering autonomous "Self-Healing" infrastructure models and managing high-availability server ecosystems
+- I specialize in infrastructure reliability and network operations - whether that's managing distributed server environments, deploying secure DoD contractor networks, or maintaining ISP-grade systems serving hundreds of concurrent users. My focus is on uptime, performance, and proper documentation.
 
-- 📫 Reach me: **<lorenztazan@gmail.com>** | [Portfolio](https://lorenztazan.com)
+- 📫 Reach me: **<lorenztazan@gmail.com>**
 
 ---
 
+**Current Focus:**
+* Network operations and infrastructure monitoring
+* High-availability system design and maintenance  
+* Security compliance for government contractors
+* Infrastructure automation and operational efficiency
+* Full-stack web development for local businesses (freelance)
+
+---
+
+## 🏆 Track Record
+
+* **99.9% uptime** managing distributed infrastructure serving 300+ concurrent users
+* **Zero audit findings** deploying DoD contractor network infrastructure (NIST 800-171 partial compliance)
+* **99.8% availability** operating ISP network supporting 700+ subscribers
+* **56% latency reduction** through performance optimization and infrastructure tuning
+* **24/7 operations experience** with on-call support and incident response
+
+---
+
+## 🛠️ Technical Skills
+
+**Infrastructure & Operations:**  
+Docker, Kubernetes, Linux (Debian/Ubuntu/Other Distros), nginx, Apache, CI/CD, Git, Terraform, Ansible
+
+**Network Operations:**  
+MikroTik RouterOS, pfSense, Ubiquiti (UDM Pro, UniFi), F5 BIG-IP, Cisco patterns, TCP/IP, VLAN design, VPN, BGP, MPLS
+
+**Systems & Databases:**  
+MariaDB, MySQL, PostgreSQL, MongoDB, Redis, Performance tuning, Clustering, Replication
+
+**Monitoring & Automation:**  
+Prometheus, Grafana, Bash scripting, Python automation, Infrastructure as Code, Documentation
+
+**Languages:**  
+Python, Java (Spring Framework), JavaScript/TypeScript, Bash, PHP, C/C++
+
+**Web Development:**  
+Astro, React, Next.js, Node.js, GSAP, Tailwind CSS, Cloudflare Workers, Vite
+
+---
+  
 ## 🌟 Featured Projects
 
 ### 🤖 AI & Intelligent Automation
@@ -28,32 +66,37 @@
 
 - [Network Infrastructure Diagrams](https://github.com/AIKUSAN/network-infrastructure-diagrams) - Interactive viewer with production ISP and DoD network topologies
 - [Regional Fiber ISP - Core Network](https://github.com/AIKUSAN/regional-fiber-isp) - 10Gbps backbone serving 700+ subscribers (MikroTik/BGP/CGNAT)
-- [DoD Contractor - Secure Network](https://github.com/AIKUSAN/government-contractor-network) - NIST 800-171 compliant infrastructure (0 audit findings)
+- [DoD Contractor - Secure Network](https://github.com/AIKUSAN/government-contractor-network) - NIST 800-171 partial compliance with zero audit findings
+  Multi-VLAN architecture (Secure/Management/Guest isolation)
+  WPA3-Enterprise authentication via RADIUS
+  Ubiquiti infrastructure (UDM Pro, UniFi switches/APs)
+  Complete documentation
+
+- [global-traffic-manager](https://github.com/AIKUSAN/global-traffic-manager) - Geographic traffic steering with intelligent health monitoring
+ F5 BIG-IP GTM with custom Lua iRules
+ AI-powered failover analysis and incident reporting
+ 40% latency reduction through proximity-based routing
 
 ### 🐳 DevOps & Cloud Infrastructure
 
 - [Container Orchestration & Infrastructure](https://github.com/aikusan/docker-kubernetes-automation) - Production Kubernetes deployments with GitOps and monitoring
-- [Bash DevOps Toolkit](https://github.com/aikusan/bash-devops-toolkit) - Automated deployment scripts for multi-environment infrastructure
+ Automated deployment pipelines reducing deployment time 93%
+ Infrastructure as Code for reproducible environments
+ Container orchestration for high-availability applications
+  
+- [Bash DevOps Toolkit](https://github.com/aikusan/bash-devops-toolkit) - Automation scripts for infrastructure management and deployment
+ System administration utilities
+ Deployment automation for multi-environment infrastructure
+ Operational efficiency tools for daily workflows
+
 - [MariaDB Performance Optimization](https://github.com/AIKUSAN/mariadb-optimization-guide) - Clustering, replication, and 56% latency reduction techniques
 
----
+### 🌐 Web Development Projects (Freelance)
+**Client Portfolio Sites** - Full-stack web development for local Southern Maryland businesses
 
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://lorenztazan.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:lorenztazan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/AIKUSAN" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://discord.com/users/aikusan" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
+* **Tori Tazan Portfolio** ([toritazan.com](https://toritazan.com)) - Professional illustrator portfolio with custom Astro + GSAP animations
+* **Proven Training Concepts** (In Development) - Corporate website for DoD contractor with Cloudflare Workers deployment
+* **Local Auto Body Shop** (Upcoming) - Business website for car remodeling and repainting services
 
 ---
 
@@ -168,22 +211,7 @@
 
 ---
 
-## 🏆 Professional Highlights
-
-- 🌐 **ISP Infrastructure:** Deployed 10Gbps backbone serving 700+ subscribers with 99.9% uptime (MikroTik/pfSense)
-- 🔒 **DoD Compliance:** Government contractor network with 0 audit findings (Ubiquiti/NIST 800-171)
-- 🐳 **DevOps:** Reduced deployment time from 30min to <2min with Docker/CI/CD automation
-- ⚡ **Performance:** Optimized database latency by 56% (80ms → 35ms) with MariaDB clustering
-- 💰 **Cost Optimization:** Achieved 65% infrastructure cost reduction through cloud migration
-- 👥 **Team Leadership:** Led 7-person distributed technical team across development and operations
-- 📊 **Scale:** 24-server ecosystem managing 300+ concurrent users with 99.9% uptime
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AIKUSAN&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
-<div align="center">
-  <p>💼 Open to opportunities in Platform Engineering, Site Reliability Engineering (SRE), DevOps, and Cloud Infrastructure roles</p>
-</div>
