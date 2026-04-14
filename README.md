@@ -96,7 +96,7 @@ Astro, React, Next.js, Node.js, GSAP, Tailwind CSS, Cloudflare Workers, Vite
 
 * **Tori Tazan Portfolio** ([toritazan.com](https://toritazan.com)) - Professional illustrator portfolio with custom Astro + GSAP animations
 * **Proven Training Concepts** (In Development) - Corporate website for DoD contractor with Cloudflare Workers deployment
-* **Local Auto Body Shop** (Upcoming) - Business website for car remodeling and repainting services
+
 
 ---
 
