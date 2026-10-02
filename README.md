@@ -30,11 +30,10 @@ I build game server infrastructure and create Java plugins and mods for Minecraf
 - Infrastructure automation and operational efficiency
 - Full-stack web development for local businesses (freelance)
 
-<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-track-record-dark.png"><img alt="track record" src="assets/label-track-record-light.png" height="31"></picture></h2>
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-currently-dark.png"><img alt="currently" src="assets/label-currently-light.png" height="31"></picture></h2>
 
-- **99.9% uptime** managing distributed infrastructure serving 300+ concurrent users
-- **56% latency reduction** through performance optimization and infrastructure tuning
-- **24/7 operations experience** with on-call support and incident response
+- Managing server infrastructure, from hardware to software, for an online platform (contract)
+- Redesigning my portfolio, [lorenztazan.com](https://lorenztazan.com)
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-stack-dark.png"><img alt="stack" src="assets/label-stack-light.png" height="31"></picture></h2>
 
