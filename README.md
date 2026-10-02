@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
-  <img alt="Lorenz Tazan. Infrastructure, network operations, systems engineering. 10+ years hands-on IT, 700+ subscribers supported, 20+ service projects." src="assets/header-light.png" width="880">
+  <img alt="Lorenz Tazan. Infrastructure, network operations, systems engineering. 10+ years hands-on IT, 20+ service projects." src="assets/header-light.png" width="880">
 </picture>
 
 Building reliable infrastructure and solving complex technical problems across network operations, systems administration, and automation. 10+ years of hands-on experience delivering high-availability systems for enterprise, ISP, and DoD contractor environments.
@@ -11,7 +11,16 @@ Building reliable infrastructure and solving complex technical problems across n
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-what-i-do-dark.png"><img alt="what i do" src="assets/label-what-i-do-light.png" height="31"></picture></h2>
 
-I specialize in infrastructure reliability and network operations, whether that's managing distributed server environments, deploying secure DoD contractor networks, or maintaining ISP-grade systems serving hundreds of concurrent users. My focus is on uptime, performance, and proper documentation.
+**I keep systems running and build what runs on them.**
+
+**infrastructure & networks**<br>
+I run Linux servers and the networks underneath them: MikroTik gear and firewall and router software on a regional ISP network, UniFi installs for small offices, and the documentation that lets someone else take over. 10+ years hands-on, from the repair bench to the server rack.
+
+**web development**<br>
+I build websites for small businesses and creatives, from planning to launch, with accessibility and security built in from the start.
+
+**game development**<br>
+I build game server infrastructure and create Java plugins and mods for Minecraft and other games.
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-focus-dark.png"><img alt="focus" src="assets/label-focus-light.png" height="31"></picture></h2>
 
@@ -24,7 +33,6 @@ I specialize in infrastructure reliability and network operations, whether that'
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-track-record-dark.png"><img alt="track record" src="assets/label-track-record-light.png" height="31"></picture></h2>
 
 - **99.9% uptime** managing distributed infrastructure serving 300+ concurrent users
-- **99.8% availability** operating ISP network supporting 700+ subscribers
 - **56% latency reduction** through performance optimization and infrastructure tuning
 - **24/7 operations experience** with on-call support and incident response
 
@@ -63,7 +71,7 @@ I specialize in infrastructure reliability and network operations, whether that'
 
 **network infrastructure**
 
-- [Regional Fiber ISP: Core Network](https://github.com/AIKUSAN/regional-fiber-isp): 10Gbps backbone serving 700+ subscribers (MikroTik/BGP/CGNAT)
+- [Regional Fiber ISP: Core Network](https://github.com/AIKUSAN/regional-fiber-isp): core network design with MikroTik routing and CGNAT
 - [Global Traffic Manager](https://github.com/AIKUSAN/global-traffic-manager): geographic traffic steering with intelligent health monitoring
   - F5 BIG-IP GTM with custom Lua iRules
   - AI-powered failover analysis and incident reporting
@@ -80,13 +88,6 @@ I specialize in infrastructure reliability and network operations, whether that'
   - Deployment automation for multi-environment infrastructure
   - Operational efficiency tools for daily workflows
 - [MariaDB Performance Optimization](https://github.com/AIKUSAN/mariadb-optimization-guide): clustering, replication, and 56% latency reduction techniques
-
-**web development (freelance)**
-
-Full-stack web development for local Southern Maryland businesses.
-
-- **Tori Tazan Portfolio** ([toritazan.com](https://toritazan.com)): professional illustrator portfolio with custom Astro + GSAP animations
-- **Proven Training Concepts** (in development): corporate website for a DoD contractor with Cloudflare Workers deployment
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-activity-dark.png"><img alt="activity" src="assets/label-activity-light.png" height="31"></picture></h2>
 
