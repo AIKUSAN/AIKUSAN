@@ -32,7 +32,8 @@ const THEMES = {
 const LEVEL = { NONE: 0, FIRST_QUARTILE: 1, SECOND_QUARTILE: 2, THIRD_QUARTILE: 3, FOURTH_QUARTILE: 4 };
 const MONTHS = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec'];
 
-// The cat, facing right, on a 16 x 12 pixel grid ('#' = ink).
+// Momo, facing right, on a 16 x 12 pixel grid ('#' = ink). Copied from the portfolio's mascot frames
+// (cat.mjs, 2026-10-04): two eyes, mouth closed.
 const SPRITES = {
   walkA: [
     '................',
@@ -67,7 +68,7 @@ const SPRITES = {
     '..........#...#.',
     '..........##.##.',
     '..........#####.',
-    '..........##.##.',
+    '..........#.#.#.',
     '..........#####.',
     '.....#########..',
     '....##########..',
