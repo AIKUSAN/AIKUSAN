@@ -95,4 +95,4 @@ I build game server infrastructure and create Java plugins and mods for Minecraf
   <img alt="Contribution graph for the last year, with a pixel cat that walks past and naps on the busiest week" src="https://raw.githubusercontent.com/AIKUSAN/AIKUSAN/output/pet-light.svg" width="100%">
 </picture>
 
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=AIKUSAN&label=profile%20views&color=6B6B73&style=flat">
+<img alt="Profile views" src="https://api.visitorbadge.io/api/visitors?path=github.com%2FAIKUSAN&label=profile%20views&labelColor=%23555555&countColor=%236B6B73&style=flat">
