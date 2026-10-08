@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
-  <img alt="Lorenz Tazan. Infrastructure, network operations, systems engineering. 10+ years hands-on IT, 20+ service projects." src="assets/header-light.png" width="880">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Lorenz Tazan. Infrastructure, network operations, systems engineering. 10+ years hands-on IT, 20+ service projects. With Momo the cat on an illustrative network stack." src="assets/header-light.svg" width="880">
 </picture>
 
 Building reliable infrastructure and solving complex technical problems across network operations, systems administration, and automation. 10+ years of hands-on experience delivering high-availability systems for enterprise, ISP, and DoD contractor environments.
